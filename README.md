@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** HTML, Java, Machine Learning, Spring Boot
+- **Detected Technologies:** Java (Maven/Gradle), Spring Boot
 - **GitHub Topics:** None
 
 ---
